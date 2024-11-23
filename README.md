@@ -33,3 +33,4 @@ Console.Write(d.speak(0));
 4. The ```Dog``` class uses a parameter of type ```short``` which does not match the type used in ```Animal```. The solution is to remove the parameter from all three classes (see #1).
 5. Remove the parameter passed in ```Console.Write(d.speak(0))```.
 
+```Program.cs``` contains correct code.
